@@ -6,15 +6,15 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [📸 Screenshot](#-screenshot)
+  - [🔗 Links](#-links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [⚙️ Built with](#-built-with)
+  - [📚 What I learned](#-what-i-learned)
+  - [🚀 Continued development](#-continued-development)
+  - [🔍 Useful resources](#-useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [🎉 Acknowledgments](#-acknowledgments)
 
 ## Overview
 
@@ -26,7 +26,13 @@ Users should be able to:
 
 ### 📸 Screenshot
 
-![Blog preview card](./design/desktop-design.jpg)
+#### Desktop Blog preview card
+
+![Desktop Blog preview card](./design/desktop-design.jpg)
+
+#### Mobile Blog preview card
+
+![Mobile Blog preview card](./design/mobile-design.jpg)
 
 ### 🔗 Links
 

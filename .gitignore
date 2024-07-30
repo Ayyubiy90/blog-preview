@@ -16,3 +16,6 @@
 
 # Avoid pushing fonts folder from the assets foler to repo
 assets/fonts/
+
+# Ignore active
+designs/active-states.jpg/
